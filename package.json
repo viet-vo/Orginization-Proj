@@ -1,0 +1,9 @@
+{
+  "name": "Orginization-Proj",
+  "version": "1.0.0",
+  "description": "Google Sheets API application",
+  "main": "index.js",
+  "repository": "git@github.com:viet-vo/Orginization-Proj.git",
+  "author": "Viet Vo <viet.allen.qvo@gmail.com>",
+  "license": "MIT"
+}

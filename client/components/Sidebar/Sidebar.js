@@ -148,6 +148,7 @@ export default function Sidebar() {
       {/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */}
       {/* This section needs to be refactored to render through MainPage   */}
       {/* ALTHOUGH... this nav section can also be refactored to MainPage  */}
+      {/* Possibly use reducers and pass it from MainPage to here          */}
       {/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */}
       <main
         className={clsx(classes.content, {

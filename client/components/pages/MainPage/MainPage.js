@@ -2,7 +2,7 @@ import React from "react";
 import { Button } from "@material-ui/core";
 import Sidebar from "../../Sidebar"
 
-export default function MainPage() {
+const MainPage = () => {
   return (
     <div>
       <Sidebar />
@@ -12,3 +12,5 @@ export default function MainPage() {
     </div>
   );
 }
+
+export default MainPage;
